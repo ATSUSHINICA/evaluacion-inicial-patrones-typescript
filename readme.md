@@ -11,7 +11,7 @@ Tabla
 | Singleton | Sí | Sí |
 | Factory | Sí | Sí |
 | DAO | Sí | Sí |
-| Dependency Injection | No | Si |
+| Dependency Injection | No | Sí |
 
 1. ¿Qué patrón te ha resultado más sencillo?
 Singleton 
